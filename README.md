@@ -1,5 +1,8 @@
 # IST-659-Data-Administration-Concepts-and-Database-Management
 
+Compilation of projects completed for a Database Management course for the MS in Applied Data Science at Syracuse University
+
+Course Description:
 IST 659 is an introductory course to database management systems. This
 course examines data structures, file organizations, concepts, and principles of
 database management systems (DBMS) as well as data analysis, database
